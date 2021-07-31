@@ -1,4 +1,4 @@
- Hi, I’m @puskr-07
+ Hi, I’m @puskr-07.
  I’m interested in Autonomous Systems, Entrepreneurship, Humanitarianism, Spirituality.
  I’m currently learning about building Autonomous systems including autonomous vehicles and robotics.
  I’m looking forward to collaborate on Autonomous systems projects specifically in self-driving car engineering domain.
