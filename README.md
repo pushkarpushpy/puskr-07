@@ -1,5 +1,5 @@
 Hi, I am @puskr-07.
-I am interested in Autonomous Sytems,Entrepreneurship, Humanitarianism & Spirituality.
+I am interested in Autonomous Systems, Entrepreneurship, Humanitarianism & Spirituality.
 I am looking forward to collaborate on Autonomous Systems Projects specifically in Self Driving Car Engineering Domain.
 
 <!---
