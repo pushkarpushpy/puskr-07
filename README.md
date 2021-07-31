@@ -1,6 +1,8 @@
-Hi, I am @puskr-07.
-I am interested in Autonomous Systems, Entrepreneurship, Humanitarianism & Spirituality.
-I am looking forward to collaborate on Autonomous Systems Projects specifically in Self Driving Car Engineering Domain.
+wave Hi, I’m @puskr-07
+eyes I’m interested in Autonomous Systems, Entrepreneurship, Humanitarianism, Spirituality.
+seedling I’m currently learning about building Autonomous systems including autonomous vehicles and robotics.
+revolving_hearts I’m looking to collaborate on Autonomous systems projects specifically in self-driving car engineering domain.
+mailbox Visit my website to know more about me.
 
 <!---
 puskr-07/puskr-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
