@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pushkar Pushp Yadav</h1>
-<h3 align="center">I am a Yogi, Seeker, Entrepreneur & Humanitarian. Passionate about problem-solving lying at the intersection of "technology & human well-being". Every project I’ve taken on was guided by my intuition, research, curiosity, creativity, and diligence & persistent longing to know, solve, simplify & grow. Current Interests: Technology(Autonomous Systems & AI), Entrepreneurship, Humanitarianism, Spirituality(Yoga & Meditations).</h3>
+<h3 align="center">A Yogi, Seeker, Entrepreneur & Humanitarian who is passionate about problem-solving at the intersection of technology & well-being. My projects are driven by intuition, research, curiosity, creativity, diligence & a persistent desire to learn, solve, and contribute.
+
+Current Interests: Technology(Autonomous Systems & AI), Entrepreneurship, Humanitarianism, Spirituality(Yoga & Meditations).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puskr-07&label=Profile%20views&color=0e75b6&style=flat" alt="puskr-07" /> </p>
 
