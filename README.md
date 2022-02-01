@@ -7,7 +7,7 @@ Current Interests: Technology(Autonomous Systems & AI), Entrepreneurship, Humani
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puskr-07" alt="puskr-07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/puskr_007" target="blank"><img src="https://img.shields.io/twitter/follow/puskr_007?logo=twitter&style=for-the-badge" alt="puskr_007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_puskr_" target="blank"><img src="https://img.shields.io/twitter/follow/_puskr_?logo=twitter&style=for-the-badge" alt="_puskr_" /></a> </p>
 
 - 🌱 My Areas of Interests are **Autonomous Systems & Artificial Intelligence**
 
